@@ -1,0 +1,27 @@
+{
+  "marketdata": {
+    "spot": 100.0,
+    "ivs": {"type":  "Flat", "vol":  0.2},
+    "rate": 0.04,
+    "div_yield": 0.02
+  },
+  "product": {
+    "type": "UOC",
+    "strike": 120.0,
+    "exercise_date": "2028-09-15",
+    "barrier": 150.0,
+    "monitor_frequency": 0.009615384615384616,
+    "smooth": 0.001
+  },
+  "model": {
+    "type": "BlackScholes",
+    "spot_measure": false
+  },
+  "computation": {
+    "valuation_date": "2025-09-15",
+    "value": true,
+    "greeks": ["delta", "vega", "rho", "epsilon"],
+    "aad": true,
+    "numerical_parameters": {"num_paths": 200000, "sobol": true, "parallel": true}
+  }
+}

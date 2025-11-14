@@ -1,0 +1,37 @@
+{
+  "marketdata": {
+    "spot": 100.0,
+    "ivs": {"type": "Merton", "vol":  0.15, "jmpIntens":  0.05, "jmpAverage":  -0.15, "jmpStd":  0.10}
+  },
+  "product": {
+    "type": "UOC",
+    "strike": 120.0,
+    "exercise_date": "2028-09-15",
+    "barrier": 150.0,
+    "monitor_frequency": 0.009615384615384616,
+    "smooth": 0.005
+  },
+  "model": {
+    "type": "Dupire",
+    "max_timestep": 0.009615384615384616,
+    "grid": {
+      "spot_min": 50,
+      "spot_max": 200,
+      "t_max": 2.0,
+      "max_delta_spot": 1.0,
+      "max_delta_time": 0.05
+    }
+  },
+  "computation": {
+    "valuation_date": "2025-09-15",
+    "greeks": false,
+    "greeks_parameters": {
+      "aad": true,
+      "vega_grid":  {
+        "strikes":  [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190],
+        "maturities": [1.0, 2.0, 4.0,  4.0, 5.0]
+      }
+    },
+    "numerical_parameters": {"num_paths": 3000, "sobol": true, "brownianbridge": false, "parallel": true}
+  }
+}

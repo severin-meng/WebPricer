@@ -1,0 +1,15 @@
+  "model": {
+    "type": "Dupire",
+    "max_timestep": 0.009615384615384616,
+    "grid": {
+      "spot_min": 50,
+      "spot_max": 200,
+      "t_max": 2.0,
+      "max_delta_spot": 1.0,
+      "max_delta_time": 0.05
+    }
+
+    "model": {
+    "type": "BlackScholes",
+    "spot_measure": false
+  },

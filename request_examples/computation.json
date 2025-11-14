@@ -1,0 +1,11 @@
+  "computation": {
+    "valuation_date": "2025-09-15",
+    "greeks": true,
+    "greeks_parameters": {
+      "aad": true, "vega_grid":  {
+        "strikes":  [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190],
+        "maturities": [0.333, 0.666, 1.0,  1.333, 1.666]
+      }
+    },
+    "numerical_parameters": {"num_paths": 300000, "sobol": true, "parallel": true}
+  }

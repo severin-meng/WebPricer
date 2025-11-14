@@ -1,0 +1,11 @@
+  "marketdata": {
+    "spot": 100.0,
+    "ivs": {"type": "Merton", "vol":  0.15, "jmpIntens":  0.05, "jmpAverage":  -0.15, "jmpStd":  0.10}
+  },
+
+    "marketdata": {
+    "spot": 100.0,
+    "ivs": {"type":  "Flat", "vol":  0.2},
+    "rate": 0.04,
+    "div_yield": 0.02
+  },

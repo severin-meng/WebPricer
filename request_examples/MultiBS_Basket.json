@@ -1,0 +1,32 @@
+{
+  "marketdata": {
+    "assets": [
+      {"name":  "S1", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}},
+      {"name":  "S2", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}},
+      {"name":  "S3", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}}
+    ],
+    "rate": 0.04,
+    "correlation": {"S2_S1":  0.6, "S3_S1":  0.6, "S3_S2":  0.6}
+  },
+  "product": {
+    "type": "Basket",
+    "strike": 120.0,
+    "exercise_date": "2028-09-15",
+    "settlement_date": "2028-09-17",
+    "underlying": [
+      {"name":  "S1", "weight":  1.0},
+      {"name":  "S2", "weight":  1.0},
+      {"name":  "S3", "weight":  1.0}]
+  },
+  "model": {
+    "type": "BlackScholesMulti",
+    "spot_measure": false
+  },
+  "computation": {
+    "valuation_date": "2025-09-15",
+    "value": true,
+    "greeks": ["delta", "vega", "rho", "epsilon"],
+    "aad": true,
+    "numerical_parameters": {"num_paths": 200000, "sobol": true, "brownianbridge": true, "parallel": true}
+  }
+}

@@ -25,8 +25,10 @@
   "computation": {
     "valuation_date": "2025-09-15",
     "value": true,
-    "greeks": ["delta", "vega", "rho", "epsilon"],
-    "aad": true,
+    "greeks": true,
+    "greeks_parameters": {
+      "aad": true
+    },
     "numerical_parameters": {"num_paths": 200000, "sobol": true, "brownianbridge": true, "parallel": true}
   }
 }

@@ -12,6 +12,7 @@
     "type": "Autocall",
     "strike": 100.0,
     "downIn": 70.0,
+    "monitor_frequency": 0,
     "upOut": 100.0,
     "couponRate": 0.12,
     "couponPeriod": 0.25,
@@ -19,9 +20,10 @@
     "exercise_date": "2028-09-15",
     "settlement_date": "2028-09-17",
     "underlying": [
-      {"name":  "S1", "weight":  1.0, "fixing":  100.0},
-      {"name":  "S2", "weight":  1.0, "fixing":  100.0},
-      {"name":  "S3", "weight":  1.0, "fixing":  100.0}]
+      {"name":  "S1", "fixing":  100.0},
+      {"name":  "S2", "fixing":  100.0},
+      {"name":  "S3", "fixing":  100.0}],
+    "smooth": 0.001
   },
   "model": {
     "type": "BlackScholesMulti",
@@ -30,8 +32,10 @@
   "computation": {
     "valuation_date": "2025-09-15",
     "value": true,
-    "greeks": ["delta", "vega", "rho", "epsilon"],
-    "aad": true,
+    "greeks": true,
+    "greeks_parameters": {
+      "aad": true
+    },
     "numerical_parameters": {"num_paths": 200000, "sobol": true, "brownianbridge": true, "parallel": true}
   }
 }

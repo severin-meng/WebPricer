@@ -1,22 +1,22 @@
 {
   "marketdata": {
     "assets": [
-      {"name":  "S1", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}},
-      {"name":  "S2", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}},
-      {"name":  "S3", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}}
+      {"name":  "S1", "spot":  1.0, "div_yield":  0.0, "ivs": {"type": "Flat", "vol":  0.3}},
+      {"name":  "S2", "spot":  1.0, "div_yield":  0.0, "ivs": {"type": "Flat", "vol":  0.3}},
+      {"name":  "S3", "spot":  1.0, "div_yield":  0.0, "ivs": {"type": "Flat", "vol":  0.3}}
     ],
-    "rate": 0.04,
-    "correlation": {"S2_S1":  0.6, "S3_S1":  0.6, "S3_S2":  0.6}
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
   },
   "product": {
     "type": "Basket",
-    "strike": 120.0,
-    "exercise_date": "2028-09-15",
-    "settlement_date": "2028-09-17",
+    "strike": 1.0,
+    "exercise_date": "2027-09-15",
+    "settlement_date": "2027-09-15",
     "underlying": [
-      {"name":  "S1", "weight":  1.0},
-      {"name":  "S2", "weight":  1.0},
-      {"name":  "S3", "weight":  1.0}]
+      {"name":  "S1", "weight":  0.333333},
+      {"name":  "S2", "weight":  0.333333},
+      {"name":  "S3", "weight":  0.333334}]
   },
   "model": {
     "type": "BlackScholesMulti",
@@ -29,6 +29,6 @@
     "greeks_parameters": {
       "aad": true
     },
-    "numerical_parameters": {"num_paths": 200000, "sobol": true, "brownianbridge": true, "parallel": true}
+    "numerical_parameters": {"num_paths": 262143, "sobol": true, "brownianbridge": true, "parallel": true}
   }
 }

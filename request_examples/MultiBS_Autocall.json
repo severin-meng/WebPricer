@@ -1,29 +1,29 @@
 {
   "marketdata": {
     "assets": [
-      {"name":  "S1", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}},
-      {"name":  "S2", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}},
-      {"name":  "S3", "spot":  100.0, "div_yield":  0.02, "ivs": {"type": "Flat", "vol":  0.2}}
+      {"name":  "S1", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Flat", "vol":  0.3}},
+      {"name":  "S2", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Flat", "vol":  0.3}},
+      {"name":  "S3", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Flat", "vol":  0.3}}
     ],
-    "rate": 0.04,
-    "correlation": {"S2_S1":  0.6, "S3_S1":  0.6, "S3_S2":  0.6}
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
   },
   "product": {
     "type": "Autocall",
-    "strike": 100.0,
-    "downIn": 70.0,
-    "monitor_frequency": 0,
-    "upOut": 100.0,
-    "couponRate": 0.12,
+    "strike": 1.0,
+    "downIn": 0.7,
+    "upOut": 1.0,
+    "couponRate": 0.1,
     "couponPeriod": 0.25,
-    "autocalls": ["2026-09-15", "2027-09-15"],
-    "exercise_date": "2028-09-15",
-    "settlement_date": "2028-09-17",
+    "autocalls": ["2026-03-17", "2026-09-15", "2027-03-17"],
+    "exercise_date": "2027-09-15",
+    "settlement_date": "2027-09-17",
     "underlying": [
-      {"name":  "S1", "fixing":  100.0},
-      {"name":  "S2", "fixing":  100.0},
-      {"name":  "S3", "fixing":  100.0}],
-    "smooth": 0.001
+      {"name":  "S1", "fixing":  1.0},
+      {"name":  "S2", "fixing":  1.0},
+      {"name":  "S3", "fixing":  1.0}],
+    "monitorPeriod": 0.0,
+    "smooth": 0.0001
   },
   "model": {
     "type": "BlackScholesMulti",
@@ -36,6 +36,6 @@
     "greeks_parameters": {
       "aad": true
     },
-    "numerical_parameters": {"num_paths": 200000, "sobol": true, "brownianbridge": true, "parallel": true}
+    "numerical_parameters": {"num_paths": 1048575, "sobol": true, "brownianbridge": true, "parallel": true}
   }
 }

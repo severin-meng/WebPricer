@@ -1,5 +1,6 @@
+{
   "computation": {
-    "valuation_date": "2025-09-15",
+    "valuation_date": "2026-09-15",
     "greeks": true,
     "greeks_parameters": {
       "aad": true, "vega_grid":  {
@@ -8,4 +9,41 @@
       }
     },
     "numerical_parameters": {"num_paths": 300000, "sobol": true, "parallel": true}
+  },
+  "convergence": {
+    "valuation_date": "2026-09-15",
+    "greeks": true,
+    "greeks_parameters": {
+      "aad": true,
+      "vega_grid":  {
+        "strikes":  [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190],
+        "maturities": [0.333, 0.666, 1.0,  1.333, 1.666]
+      },
+      "secondOrder": true
+    },
+    "parallel": true,
+    "variable_params": {
+      "paths_log2": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
+      "smooth": [0.125, 0.0625, 0.03125, 0.015625, 0.0078125, 0.00390625, 0.001953125, 0.0009765625, 0.00048828125],
+      "bump": [0.075, 0.05, 0.03, 0.2, 0.01, 0.0075, 0.005, 0.0025],
+      "steps": [12, 25, 50, 75, 100, 125, 150, 200, 250],
+      "rngConfig": [
+        {"rng":  "PSEUDO", "PathConstr":  "INCR"},
+        {"rng":  "SOBOL_BIT", "PathConstr":  "INCR"},
+        {"rng":  "SOBOL_BIT", "PathConstr":  "BB"},
+        {"rng":  "SOBOL_BIT", "PathConstr":  "PCA"},
+        {"rng":  "SOBOL_OWEN", "PathConstr":  "INCR"},
+        {"rng":  "SOBOL_OWEN", "PathConstr":  "BB"},
+        {"rng":  "SOBOL_OWEN", "PathConstr":  "PCA"}
+      ]
+    },
+    "num_RQMC": 16,
+    "paths_log2":  16,
+    "smooth": 0.01,
+    "bump": 0.01,
+    "steps": 104,
+    "rngConfig": {"rng":  "SOBOL_BIT", "PathConstr":  "BB"},
+    "runQMC": false,
+    "qmcScaling": false
   }
+}

@@ -1,15 +1,63 @@
-  "model": {
+[
+  {
+    "name": "LV",
     "type": "Dupire",
     "max_timestep": 0.009615384615384616,
+    "use_equidistant_log_spot_spacing": true,
+    "milstein_disc": false,
+    "linear_interpol": true,
     "grid": {
-      "spot_min": 50,
-      "spot_max": 200,
-      "t_max": 2.0,
-      "max_delta_spot": 1.0,
-      "max_delta_time": 0.05
+      "spot_min": 0.5,
+      "spot_max": 2.0,
+      "max_delta_spot": 0.1,
+      "spot_steps": 150,
+      "t_max": 3.0,
+      "max_delta_time": 0.05,
+      "time_steps": 60
     }
-
-    "model": {
+  },
+  {
+    "name": "BS",
     "type": "BlackScholes",
     "spot_measure": false
   },
+  {
+    "name": "BSM",
+    "type": "BlackScholesMulti",
+    "spot_measure": false
+  },
+  {
+    "name": "LVM",
+    "type": "DupireMulti",
+    "max_timestep": 0.009615384615384616,
+    "grids": [
+      {
+        "spot_min": 0.5,
+        "spot_max": 2.0,
+        "max_delta_spot": 0.1,
+        "spot_steps": 150,
+        "t_max": 3.0,
+        "max_delta_time": 0.05,
+        "time_steps": 60
+      },
+      {
+        "spot_min": 0.5,
+        "spot_max": 2.0,
+        "max_delta_spot": 0.1,
+        "spot_steps": 150,
+        "t_max": 3.0,
+        "max_delta_time": 0.05,
+        "time_steps": 60
+      },
+      {
+        "spot_min": 0.5,
+        "spot_max": 2.0,
+        "max_delta_spot": 0.1,
+        "spot_steps": 150,
+        "t_max": 3.0,
+        "max_delta_time": 0.05,
+        "time_steps": 60
+      }
+    ]
+  }
+]

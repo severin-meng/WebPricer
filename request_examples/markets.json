@@ -1,0 +1,61 @@
+[
+  {
+    "name": "FlatMkt",
+    "assets": [
+      {"name":  "S1", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Flat", "vol":  0.3}},
+      {"name":  "S2", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Flat", "vol":  0.3}},
+      {"name":  "S3", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Flat", "vol":  0.3}}
+    ],
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
+  },
+  {
+    "name": "MertonMkt",
+    "assets": [
+      {"name":  "S1", "spot":  1.0, "div_yield":  0.00, "ivs": {
+        "type": "Merton", "vol":  0.3, "jmpIntens": 0.05, "jmpAverage": -0.15, "jmpStd": 0.10}
+      },
+      {"name":  "S2", "spot":  1.0, "div_yield":  0.00, "ivs": {
+        "type": "Merton", "vol":  0.3, "jmpIntens": 0.05, "jmpAverage": -0.15, "jmpStd": 0.10}
+      },
+      {"name":  "S3", "spot":  1.0, "div_yield":  0.00, "ivs": {
+        "type": "Merton", "vol":  0.3, "jmpIntens": 0.05, "jmpAverage": -0.15, "jmpStd": 0.10}
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
+  },
+  {
+    "name": "SSVIMkt",
+    "assets": [
+      {"name":  "S1", "spot":  1.0, "div_yield":  0.00, "ivs": {
+        "type": "SSVI_PowerLaw", "vol":  0.2, "rho":  -0.7, "eta": 0.9, "gamma": 0.4}
+      },
+      {"name":  "S2", "spot":  1.0, "div_yield":  0.00, "ivs": {
+        "type": "SSVI_PowerLaw", "vol":  0.25, "rho":  -0.5, "eta":  0.8, "gamma":  0.5}
+      },
+      {"name":  "S3", "spot":  1.0, "div_yield":  0.00, "ivs": {
+        "type": "SSVI_PowerLaw", "vol":  0.3, "rho":  -0.4, "eta":  0.4, "gamma":  0.6}
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
+  },
+  {
+    "name": "SSVIMktAutocallEuroGammaTest",
+    "assets": [
+      {
+        "name": "S1", "spot": 0.9, "div_yield": 0.00, "ivs": {
+        "type": "SSVI_PowerLaw", "vol": 0.2, "rho": -0.7, "eta": 0.9, "gamma": 0.4}
+      },
+      {"name":  "S2", "spot":  2.1, "div_yield":  0.00, "ivs": {
+        "type": "SSVI_PowerLaw", "vol":  0.25, "rho":  -0.5, "eta":  0.8, "gamma":  0.5}
+      },
+      {"name":  "S3", "spot":  0.89, "div_yield":  0.00, "ivs": {
+        "type": "SSVI_PowerLaw", "vol":  0.3, "rho":  -0.4, "eta":  0.4, "gamma":  0.6}
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
+  }
+]

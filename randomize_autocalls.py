@@ -44,7 +44,7 @@ def generate_products(
     exercise_months_min, exercise_months_max = exercise_months_range
 
     products = []
-    param_keys = ["initial_fixing_1", "initial_fixing_2", "initial_fixing_3", "down_in", "autocall_barrier", "maturity_months", "is_euro_barrier"]
+    param_keys = ["name", "initial_fixing_1", "initial_fixing_2", "initial_fixing_3", "down_in", "autocall_barrier", "maturity_months", "is_euro_barrier"]
     param_data = []
     for index in range(1, number_of_products + 1):
         maturity_months = rng.randint(
@@ -74,16 +74,18 @@ def generate_products(
             for value in reversed(autocall_dates_descending)
         ]
 
+        init_fixings = [
+                round(rng.uniform(initial_fixings_min, initial_fixings_max), 3)
+                for _ in range(3)
+            ]
+
         product = {
             "name": f"{name_prefix}_{index}",
             "type": "Autocall",
             "asset_names": ["S1", "S2", "S3"],
-            "initial_fixings": [
-                round(rng.uniform(initial_fixings_min, initial_fixings_max), 6)
-                for _ in range(3)
-            ],
+            "initial_fixings": init_fixings,
             "strike": 1.0,
-            "down_in": round(rng.uniform(down_in_min, down_in_max), 6),
+            "down_in": round(rng.uniform(down_in_min, min(1 / max(init_fixings), down_in_max)), 3),  # down in barrier should be below current min - i.e. no present breach
             "autocall_barrier": round(
                 rng.uniform(autocall_min, autocall_max),
                 6,
@@ -98,7 +100,7 @@ def generate_products(
         }
         products.append(product)
 
-        params = product["initial_fixings"] + [product["down_in"], product["autocall_barrier"], maturity_months, product["is_euro_barrier"]]
+        params = [product["name"]] + product["initial_fixings"] + [product["down_in"], product["autocall_barrier"], maturity_months, product["is_euro_barrier"]]
         param_data.append(params)
 
 
@@ -107,7 +109,7 @@ def generate_products(
 
 if __name__ == "__main__":
     products_json, param_keys, param_data = generate_products(
-        number_of_products=50,
+        number_of_products=200,
         initial_fixings_range=(0.5, 2.0),
         down_in_range=(0.45, 0.9),
         autocall_barrier_range=(0.9, 1.1),

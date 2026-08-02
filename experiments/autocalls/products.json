@@ -8,12 +8,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.537516,
-      0.912544,
-      0.834816
+      0.538,
+      0.913,
+      0.835
     ],
     "strike": 1.0,
-    "down_in": 0.781412,
+    "down_in": 0.781,
     "autocall_barrier": 1.03534,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -38,12 +38,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.547674,
-      0.640543,
-      0.848991
+      0.548,
+      0.641,
+      0.849
     ],
     "strike": 1.0,
-    "down_in": 0.720908,
+    "down_in": 0.721,
     "autocall_barrier": 1.012249,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -78,12 +78,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.173814,
-      0.917286,
-      1.80395
+      1.174,
+      0.917,
+      1.804
     ],
     "strike": 1.0,
-    "down_in": 0.791463,
+    "down_in": 0.529,
     "autocall_barrier": 0.931932,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -111,12 +111,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.916807,
-      0.822971,
-      1.645241
+      0.917,
+      0.823,
+      1.645
     ],
     "strike": 1.0,
-    "down_in": 0.495995,
+    "down_in": 0.466,
     "autocall_barrier": 0.975985,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -148,12 +148,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.405589,
-      1.710692,
-      1.594598
+      1.406,
+      1.711,
+      1.595
     ],
     "strike": 1.0,
-    "down_in": 0.691303,
+    "down_in": 0.522,
     "autocall_barrier": 1.094623,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -185,12 +185,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.328061,
-      1.744107,
-      1.42778
+      1.328,
+      1.744,
+      1.428
     ],
     "strike": 1.0,
-    "down_in": 0.837768,
+    "down_in": 0.556,
     "autocall_barrier": 1.01547,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -212,12 +212,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.491895,
-      1.659603,
-      1.977832
+      1.492,
+      1.66,
+      1.978
     ],
     "strike": 1.0,
-    "down_in": 0.834893,
+    "down_in": 0.498,
     "autocall_barrier": 1.073297,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -238,12 +238,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.180115,
-      1.751166,
-      0.743981
+      1.18,
+      1.751,
+      0.744
     ],
     "strike": 1.0,
-    "down_in": 0.609872,
+    "down_in": 0.493,
     "autocall_barrier": 1.034035,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -272,12 +272,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.30121,
-      0.867216,
-      1.19339
+      1.301,
+      0.867,
+      1.193
     ],
     "strike": 1.0,
-    "down_in": 0.571477,
+    "down_in": 0.536,
     "autocall_barrier": 1.085078,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -303,12 +303,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.764278,
+      1.764,
       1.664,
-      0.843572
+      0.844
     ],
     "strike": 1.0,
-    "down_in": 0.464445,
+    "down_in": 0.454,
     "autocall_barrier": 0.963091,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -339,12 +339,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.816474,
-      1.914365,
-      1.814551
+      0.816,
+      1.914,
+      1.815
     ],
     "strike": 1.0,
-    "down_in": 0.591605,
+    "down_in": 0.473,
     "autocall_barrier": 1.031088,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -366,12 +366,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.714307,
-      0.709445,
-      1.617483
+      0.714,
+      0.709,
+      1.617
     ],
     "strike": 1.0,
-    "down_in": 0.69254,
+    "down_in": 0.541,
     "autocall_barrier": 1.049403,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -406,12 +406,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.042995,
-      1.995989,
-      0.707498
+      1.043,
+      1.996,
+      0.707
     ],
     "strike": 1.0,
-    "down_in": 0.672082,
+    "down_in": 0.475,
     "autocall_barrier": 1.051156,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -445,12 +445,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.441169,
-      1.688119,
-      1.13324
+      1.441,
+      1.688,
+      1.133
     ],
     "strike": 1.0,
-    "down_in": 0.478587,
+    "down_in": 0.459,
     "autocall_barrier": 0.976324,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -476,12 +476,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.877121,
-      1.329839,
-      1.913646
+      0.877,
+      1.33,
+      1.914
     ],
     "strike": 1.0,
-    "down_in": 0.756128,
+    "down_in": 0.499,
     "autocall_barrier": 0.92291,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -519,12 +519,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.667328,
-      1.152148,
-      1.180586
+      0.667,
+      1.152,
+      1.181
     ],
     "strike": 1.0,
-    "down_in": 0.879217,
+    "down_in": 0.828,
     "autocall_barrier": 1.075171,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -556,12 +556,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.642943,
-      1.261523,
-      0.659616
+      1.643,
+      1.262,
+      0.66
     ],
     "strike": 1.0,
-    "down_in": 0.731385,
+    "down_in": 0.549,
     "autocall_barrier": 1.068334,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -598,12 +598,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.060871,
-      0.742324,
-      1.93025
+      1.061,
+      0.742,
+      1.93
     ],
     "strike": 1.0,
-    "down_in": 0.865095,
+    "down_in": 0.513,
     "autocall_barrier": 1.083699,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -629,12 +629,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.529215,
-      1.893648,
-      1.818083
+      0.529,
+      1.894,
+      1.818
     ],
     "strike": 1.0,
-    "down_in": 0.824249,
+    "down_in": 0.515,
     "autocall_barrier": 0.961503,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -671,12 +671,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.817014,
-      1.920424,
-      0.62848
+      1.817,
+      1.92,
+      0.628
     ],
     "strike": 1.0,
-    "down_in": 0.668696,
+    "down_in": 0.484,
     "autocall_barrier": 0.913843,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -705,12 +705,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.489626,
-      1.920273,
-      0.74769
+      1.49,
+      1.92,
+      0.748
     ],
     "strike": 1.0,
-    "down_in": 0.687453,
+    "down_in": 0.487,
     "autocall_barrier": 1.021319,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -735,12 +735,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.632898,
-      1.534801,
-      1.569423
+      1.633,
+      1.535,
+      1.569
     ],
     "strike": 1.0,
-    "down_in": 0.629547,
+    "down_in": 0.515,
     "autocall_barrier": 1.034337,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -778,12 +778,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.849421,
-      1.177229,
-      0.871858
+      1.849,
+      1.177,
+      0.872
     ],
     "strike": 1.0,
-    "down_in": 0.478812,
+    "down_in": 0.456,
     "autocall_barrier": 0.904207,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -818,12 +818,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.510786,
-      1.561761,
-      0.588311
+      0.511,
+      1.562,
+      0.588
     ],
     "strike": 1.0,
-    "down_in": 0.48033,
+    "down_in": 0.463,
     "autocall_barrier": 0.906283,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -851,12 +851,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.271234,
-      0.917716,
-      1.228122
+      1.271,
+      0.918,
+      1.228
     ],
     "strike": 1.0,
-    "down_in": 0.692655,
+    "down_in": 0.632,
     "autocall_barrier": 1.044671,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -878,12 +878,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.676929,
-      1.711245,
-      0.785615
+      1.677,
+      1.711,
+      0.786
     ],
     "strike": 1.0,
-    "down_in": 0.493619,
+    "down_in": 0.463,
     "autocall_barrier": 0.98621,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -912,12 +912,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.200537,
-      1.593614,
-      1.510047
+      1.201,
+      1.594,
+      1.51
     ],
     "strike": 1.0,
-    "down_in": 0.892874,
+    "down_in": 0.625,
     "autocall_barrier": 0.919684,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -951,12 +951,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.700889,
-      0.663904,
-      0.787385
+      1.701,
+      0.664,
+      0.787
     ],
     "strike": 1.0,
-    "down_in": 0.691329,
+    "down_in": 0.524,
     "autocall_barrier": 0.928036,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -988,12 +988,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.193942,
-      1.811729,
-      0.613077
+      1.194,
+      1.812,
+      0.613
     ],
     "strike": 1.0,
-    "down_in": 0.81361,
+    "down_in": 0.532,
     "autocall_barrier": 1.071193,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1022,12 +1022,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.478217,
-      1.310882,
-      0.522137
+      1.478,
+      1.311,
+      0.522
     ],
     "strike": 1.0,
-    "down_in": 0.491968,
+    "down_in": 0.471,
     "autocall_barrier": 1.050713,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1049,12 +1049,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.109621,
-      1.222038,
-      1.796976
+      1.11,
+      1.222,
+      1.797
     ],
     "strike": 1.0,
-    "down_in": 0.856099,
+    "down_in": 0.546,
     "autocall_barrier": 0.932927,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1080,12 +1080,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.897805,
-      1.676106,
-      1.182513
+      0.898,
+      1.676,
+      1.183
     ],
     "strike": 1.0,
-    "down_in": 0.640353,
+    "down_in": 0.512,
     "autocall_barrier": 1.091464,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1119,12 +1119,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.784847,
-      0.826551,
-      0.587725
+      0.785,
+      0.827,
+      0.588
     ],
     "strike": 1.0,
-    "down_in": 0.781082,
+    "down_in": 0.781,
     "autocall_barrier": 0.912192,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1150,12 +1150,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.575214,
-      1.215183,
-      1.879081
+      0.575,
+      1.215,
+      1.879
     ],
     "strike": 1.0,
-    "down_in": 0.689007,
+    "down_in": 0.494,
     "autocall_barrier": 0.911376,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1177,12 +1177,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.602782,
-      0.601941,
-      1.792729
+      0.603,
+      0.602,
+      1.793
     ],
     "strike": 1.0,
-    "down_in": 0.631699,
+    "down_in": 0.493,
     "autocall_barrier": 1.088319,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1208,12 +1208,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.429072,
-      1.128837,
-      1.375508
+      1.429,
+      1.129,
+      1.376
     ],
     "strike": 1.0,
-    "down_in": 0.685252,
+    "down_in": 0.581,
     "autocall_barrier": 1.086941,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1234,12 +1234,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.858029,
-      1.093679,
-      1.507535
+      0.858,
+      1.094,
+      1.508
     ],
     "strike": 1.0,
-    "down_in": 0.584999,
+    "down_in": 0.514,
     "autocall_barrier": 0.963235,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1270,12 +1270,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.187428,
-      1.997682,
-      1.994145
+      1.187,
+      1.998,
+      1.994
     ],
     "strike": 1.0,
-    "down_in": 0.482967,
+    "down_in": 0.454,
     "autocall_barrier": 0.942631,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1296,12 +1296,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.899889,
-      1.821296,
-      1.818905
+      1.9,
+      1.821,
+      1.819
     ],
     "strike": 1.0,
-    "down_in": 0.616287,
+    "down_in": 0.478,
     "autocall_barrier": 0.931549,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1326,12 +1326,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.511735,
-      1.725656,
-      0.949068
+      0.512,
+      1.726,
+      0.949
     ],
     "strike": 1.0,
-    "down_in": 0.748525,
+    "down_in": 0.536,
     "autocall_barrier": 1.087786,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1369,12 +1369,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.673143,
-      0.660554,
-      1.329835
+      0.673,
+      0.661,
+      1.33
     ],
     "strike": 1.0,
-    "down_in": 0.572557,
+    "down_in": 0.532,
     "autocall_barrier": 1.020966,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1403,12 +1403,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.531246,
-      1.779369,
-      1.258114
+      1.531,
+      1.779,
+      1.258
     ],
     "strike": 1.0,
-    "down_in": 0.563005,
+    "down_in": 0.478,
     "autocall_barrier": 1.081632,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1436,12 +1436,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.451427,
-      1.744022,
-      0.56613
+      1.451,
+      1.744,
+      0.566
     ],
     "strike": 1.0,
-    "down_in": 0.6001,
+    "down_in": 0.491,
     "autocall_barrier": 0.926164,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1463,12 +1463,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.611846,
-      1.327521,
-      1.14153
+      1.612,
+      1.328,
+      1.142
     ],
     "strike": 1.0,
-    "down_in": 0.454351,
+    "down_in": 0.452,
     "autocall_barrier": 0.915049,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1494,12 +1494,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.554042,
-      1.053824,
-      1.328788
+      0.554,
+      1.054,
+      1.329
     ],
     "strike": 1.0,
-    "down_in": 0.643404,
+    "down_in": 0.58,
     "autocall_barrier": 0.908366,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1537,12 +1537,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.848387,
-      0.815115,
-      0.874295
+      1.848,
+      0.815,
+      0.874
     ],
     "strike": 1.0,
-    "down_in": 0.496257,
+    "down_in": 0.459,
     "autocall_barrier": 1.056023,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1563,12 +1563,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.888646,
-      0.855106,
-      0.743753
+      1.889,
+      0.855,
+      0.744
     ],
     "strike": 1.0,
-    "down_in": 0.809949,
+    "down_in": 0.513,
     "autocall_barrier": 0.93541,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1594,12 +1594,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.769041,
-      1.886731,
-      1.67358
+      0.769,
+      1.887,
+      1.674
     ],
     "strike": 1.0,
-    "down_in": 0.635271,
+    "down_in": 0.483,
     "autocall_barrier": 1.033981,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1620,12 +1620,12 @@
       "S3"
     ],
     "initial_fixings": [
-      0.738797,
-      1.551917,
-      1.073813
+      0.739,
+      1.552,
+      1.074
     ],
     "strike": 1.0,
-    "down_in": 0.467426,
+    "down_in": 0.458,
     "autocall_barrier": 0.994138,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1654,12 +1654,12 @@
       "S3"
     ],
     "initial_fixings": [
-      1.024488,
-      1.730805,
-      1.806985
+      1.024,
+      1.731,
+      1.807
     ],
     "strike": 1.0,
-    "down_in": 0.550316,
+    "down_in": 0.473,
     "autocall_barrier": 1.032007,
     "coupon_amount": 0.02,
     "coupon_dates": [
@@ -1681,6 +1681,5314 @@
       "2028-09-15"
     ],
     "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_51",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.918,
+      0.604,
+      1.66
+    ],
+    "strike": 1.0,
+    "down_in": 0.504,
+    "autocall_barrier": 1.001881,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_52",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.673,
+      1.956,
+      0.768
+    ],
+    "strike": 1.0,
+    "down_in": 0.509,
+    "autocall_barrier": 0.953093,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_53",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.019,
+      1.68,
+      1.155
+    ],
+    "strike": 1.0,
+    "down_in": 0.593,
+    "autocall_barrier": 0.923129,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15"
+    ],
+    "exercise_date": "2029-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_54",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.567,
+      1.154,
+      1.28
+    ],
+    "strike": 1.0,
+    "down_in": 0.717,
+    "autocall_barrier": 1.037371,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15"
+    ],
+    "exercise_date": "2028-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_55",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.147,
+      1.923,
+      1.881
+    ],
+    "strike": 1.0,
+    "down_in": 0.494,
+    "autocall_barrier": 1.032677,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15"
+    ],
+    "exercise_date": "2028-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_56",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.261,
+      1.5,
+      0.989
+    ],
+    "strike": 1.0,
+    "down_in": 0.601,
+    "autocall_barrier": 1.010882,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15"
+    ],
+    "exercise_date": "2028-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_57",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.497,
+      1.069,
+      1.622
+    ],
+    "strike": 1.0,
+    "down_in": 0.479,
+    "autocall_barrier": 1.013821,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15"
+    ],
+    "exercise_date": "2028-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_58",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.751,
+      0.956,
+      0.815
+    ],
+    "strike": 1.0,
+    "down_in": 0.545,
+    "autocall_barrier": 1.021332,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15",
+      "2029-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15",
+      "2029-03-15"
+    ],
+    "exercise_date": "2029-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_59",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.163,
+      1.513,
+      1.267
+    ],
+    "strike": 1.0,
+    "down_in": 0.617,
+    "autocall_barrier": 1.091966,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_60",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.926,
+      1.496,
+      1.429
+    ],
+    "strike": 1.0,
+    "down_in": 0.47,
+    "autocall_barrier": 1.0904,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_61",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.837,
+      0.799,
+      0.537
+    ],
+    "strike": 1.0,
+    "down_in": 0.56,
+    "autocall_barrier": 0.995027,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15"
+    ],
+    "exercise_date": "2028-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_62",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.122,
+      1.445,
+      0.792
+    ],
+    "strike": 1.0,
+    "down_in": 0.619,
+    "autocall_barrier": 0.998875,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_63",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.484,
+      0.508,
+      1.626
+    ],
+    "strike": 1.0,
+    "down_in": 0.577,
+    "autocall_barrier": 0.921317,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15"
+    ],
+    "exercise_date": "2027-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_64",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.764,
+      1.937,
+      1.277
+    ],
+    "strike": 1.0,
+    "down_in": 0.453,
+    "autocall_barrier": 0.94984,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_65",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.7,
+      1.197,
+      1.297
+    ],
+    "strike": 1.0,
+    "down_in": 0.629,
+    "autocall_barrier": 0.96346,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_66",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.14,
+      1.86,
+      1.169
+    ],
+    "strike": 1.0,
+    "down_in": 0.464,
+    "autocall_barrier": 1.072299,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15",
+      "2028-12-15"
+    ],
+    "exercise_date": "2029-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_67",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.628,
+      1.76,
+      0.916
+    ],
+    "strike": 1.0,
+    "down_in": 0.542,
+    "autocall_barrier": 0.996919,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15"
+    ],
+    "exercise_date": "2028-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_68",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.16,
+      1.57,
+      0.852
+    ],
+    "strike": 1.0,
+    "down_in": 0.513,
+    "autocall_barrier": 1.078605,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15"
+    ],
+    "exercise_date": "2028-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_69",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.726,
+      1.075,
+      0.729
+    ],
+    "strike": 1.0,
+    "down_in": 0.546,
+    "autocall_barrier": 0.982974,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_70",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.199,
+      0.593,
+      1.749
+    ],
+    "strike": 1.0,
+    "down_in": 0.497,
+    "autocall_barrier": 1.053959,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15",
+      "2029-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15",
+      "2029-02-15"
+    ],
+    "exercise_date": "2029-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_71",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.215,
+      1.914,
+      0.948
+    ],
+    "strike": 1.0,
+    "down_in": 0.478,
+    "autocall_barrier": 1.078328,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15"
+    ],
+    "exercise_date": "2028-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_72",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.621,
+      1.319,
+      1.405
+    ],
+    "strike": 1.0,
+    "down_in": 0.487,
+    "autocall_barrier": 0.943884,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15",
+      "2029-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15",
+      "2029-02-15"
+    ],
+    "exercise_date": "2029-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_73",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.544,
+      1.004,
+      1.519
+    ],
+    "strike": 1.0,
+    "down_in": 0.534,
+    "autocall_barrier": 0.933009,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15",
+      "2028-11-15"
+    ],
+    "exercise_date": "2029-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_74",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.971,
+      1.301,
+      1.86
+    ],
+    "strike": 1.0,
+    "down_in": 0.484,
+    "autocall_barrier": 1.0326,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_75",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.704,
+      1.193,
+      0.575
+    ],
+    "strike": 1.0,
+    "down_in": 0.597,
+    "autocall_barrier": 0.942332,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15"
+    ],
+    "exercise_date": "2029-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_76",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.642,
+      1.069,
+      1.628
+    ],
+    "strike": 1.0,
+    "down_in": 0.582,
+    "autocall_barrier": 0.950454,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_77",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.529,
+      1.309,
+      2.0
+    ],
+    "strike": 1.0,
+    "down_in": 0.467,
+    "autocall_barrier": 1.030029,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15",
+      "2029-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15",
+      "2028-10-15"
+    ],
+    "exercise_date": "2029-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_78",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.924,
+      0.799,
+      0.531
+    ],
+    "strike": 1.0,
+    "down_in": 0.461,
+    "autocall_barrier": 0.925244,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_79",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.198,
+      0.884,
+      1.053
+    ],
+    "strike": 1.0,
+    "down_in": 0.683,
+    "autocall_barrier": 1.092747,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15"
+    ],
+    "exercise_date": "2027-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_80",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.947,
+      0.662,
+      0.539
+    ],
+    "strike": 1.0,
+    "down_in": 0.47,
+    "autocall_barrier": 1.035469,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15"
+    ],
+    "exercise_date": "2027-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_81",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.912,
+      0.797,
+      1.388
+    ],
+    "strike": 1.0,
+    "down_in": 0.511,
+    "autocall_barrier": 0.94857,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15"
+    ],
+    "exercise_date": "2028-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_82",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.694,
+      1.349,
+      0.562
+    ],
+    "strike": 1.0,
+    "down_in": 0.525,
+    "autocall_barrier": 1.032304,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15"
+    ],
+    "exercise_date": "2027-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_83",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.471,
+      0.519,
+      1.13
+    ],
+    "strike": 1.0,
+    "down_in": 0.563,
+    "autocall_barrier": 0.986705,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15",
+      "2028-12-15"
+    ],
+    "exercise_date": "2029-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_84",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.561,
+      1.153,
+      1.601
+    ],
+    "strike": 1.0,
+    "down_in": 0.619,
+    "autocall_barrier": 0.954016,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_85",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.153,
+      1.597,
+      0.903
+    ],
+    "strike": 1.0,
+    "down_in": 0.6,
+    "autocall_barrier": 1.066146,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_86",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.822,
+      0.866,
+      1.197
+    ],
+    "strike": 1.0,
+    "down_in": 0.51,
+    "autocall_barrier": 0.975798,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15"
+    ],
+    "exercise_date": "2028-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_87",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.776,
+      0.773,
+      0.818
+    ],
+    "strike": 1.0,
+    "down_in": 0.54,
+    "autocall_barrier": 0.968068,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15",
+      "2028-11-15"
+    ],
+    "exercise_date": "2029-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_88",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.515,
+      1.922,
+      0.628
+    ],
+    "strike": 1.0,
+    "down_in": 0.501,
+    "autocall_barrier": 0.997716,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15",
+      "2029-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15",
+      "2029-03-15"
+    ],
+    "exercise_date": "2029-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_89",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.469,
+      1.236,
+      1.689
+    ],
+    "strike": 1.0,
+    "down_in": 0.463,
+    "autocall_barrier": 0.944319,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15",
+      "2029-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15",
+      "2028-10-15"
+    ],
+    "exercise_date": "2029-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_90",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.496,
+      1.054,
+      1.33
+    ],
+    "strike": 1.0,
+    "down_in": 0.525,
+    "autocall_barrier": 1.099326,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15"
+    ],
+    "exercise_date": "2028-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_91",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.554,
+      0.906,
+      0.877
+    ],
+    "strike": 1.0,
+    "down_in": 0.473,
+    "autocall_barrier": 0.938517,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15"
+    ],
+    "exercise_date": "2028-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_92",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.926,
+      1.535,
+      0.787
+    ],
+    "strike": 1.0,
+    "down_in": 0.501,
+    "autocall_barrier": 0.9553,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15",
+      "2029-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15",
+      "2029-02-15"
+    ],
+    "exercise_date": "2029-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_93",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.749,
+      0.944,
+      1.041
+    ],
+    "strike": 1.0,
+    "down_in": 0.487,
+    "autocall_barrier": 1.041604,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15"
+    ],
+    "exercise_date": "2027-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_94",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.568,
+      0.582,
+      0.938
+    ],
+    "strike": 1.0,
+    "down_in": 0.875,
+    "autocall_barrier": 1.027574,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15"
+    ],
+    "exercise_date": "2028-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_95",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.809,
+      1.361,
+      1.204
+    ],
+    "strike": 1.0,
+    "down_in": 0.495,
+    "autocall_barrier": 0.936873,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15"
+    ],
+    "exercise_date": "2027-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_96",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.912,
+      1.217,
+      1.733
+    ],
+    "strike": 1.0,
+    "down_in": 0.479,
+    "autocall_barrier": 0.914816,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15"
+    ],
+    "exercise_date": "2028-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_97",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.724,
+      1.344,
+      0.956
+    ],
+    "strike": 1.0,
+    "down_in": 0.742,
+    "autocall_barrier": 0.92369,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15"
+    ],
+    "exercise_date": "2027-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_98",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.664,
+      1.071,
+      1.863
+    ],
+    "strike": 1.0,
+    "down_in": 0.476,
+    "autocall_barrier": 1.017705,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_99",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.353,
+      0.59,
+      1.94
+    ],
+    "strike": 1.0,
+    "down_in": 0.456,
+    "autocall_barrier": 1.052547,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15"
+    ],
+    "exercise_date": "2028-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_100",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.491,
+      0.736,
+      0.761
+    ],
+    "strike": 1.0,
+    "down_in": 0.467,
+    "autocall_barrier": 0.900535,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15"
+    ],
+    "exercise_date": "2028-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_101",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.937,
+      0.847,
+      1.56
+    ],
+    "strike": 1.0,
+    "down_in": 0.584,
+    "autocall_barrier": 0.990806,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15",
+      "2029-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15",
+      "2028-10-15"
+    ],
+    "exercise_date": "2029-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_102",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.682,
+      1.438,
+      1.492
+    ],
+    "strike": 1.0,
+    "down_in": 0.585,
+    "autocall_barrier": 0.985028,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15"
+    ],
+    "exercise_date": "2028-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_103",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.863,
+      1.74,
+      0.607
+    ],
+    "strike": 1.0,
+    "down_in": 0.464,
+    "autocall_barrier": 0.961522,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15"
+    ],
+    "exercise_date": "2027-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_104",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.687,
+      1.533,
+      1.55
+    ],
+    "strike": 1.0,
+    "down_in": 0.634,
+    "autocall_barrier": 1.000094,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_105",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.621,
+      0.56,
+      1.148
+    ],
+    "strike": 1.0,
+    "down_in": 0.586,
+    "autocall_barrier": 0.950074,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_106",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.943,
+      1.754,
+      1.363
+    ],
+    "strike": 1.0,
+    "down_in": 0.511,
+    "autocall_barrier": 1.099914,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_107",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.645,
+      0.763,
+      1.278
+    ],
+    "strike": 1.0,
+    "down_in": 0.52,
+    "autocall_barrier": 0.955631,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_108",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.954,
+      1.205,
+      1.113
+    ],
+    "strike": 1.0,
+    "down_in": 0.47,
+    "autocall_barrier": 0.92092,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15",
+      "2028-11-15"
+    ],
+    "exercise_date": "2029-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_109",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.117,
+      1.243,
+      1.494
+    ],
+    "strike": 1.0,
+    "down_in": 0.538,
+    "autocall_barrier": 1.0521,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_110",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.632,
+      0.879,
+      0.674
+    ],
+    "strike": 1.0,
+    "down_in": 0.798,
+    "autocall_barrier": 1.072982,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_111",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.193,
+      0.581,
+      1.278
+    ],
+    "strike": 1.0,
+    "down_in": 0.657,
+    "autocall_barrier": 0.999699,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15",
+      "2029-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15",
+      "2029-02-15"
+    ],
+    "exercise_date": "2029-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_112",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.805,
+      1.324,
+      1.892
+    ],
+    "strike": 1.0,
+    "down_in": 0.484,
+    "autocall_barrier": 1.03965,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_113",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.96,
+      1.413,
+      0.859
+    ],
+    "strike": 1.0,
+    "down_in": 0.46,
+    "autocall_barrier": 1.010168,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_114",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.837,
+      1.762,
+      0.67
+    ],
+    "strike": 1.0,
+    "down_in": 0.561,
+    "autocall_barrier": 1.029542,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_115",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.899,
+      0.938,
+      1.558
+    ],
+    "strike": 1.0,
+    "down_in": 0.482,
+    "autocall_barrier": 0.9965,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15",
+      "2028-11-15"
+    ],
+    "exercise_date": "2029-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_116",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.185,
+      0.717,
+      0.786
+    ],
+    "strike": 1.0,
+    "down_in": 0.686,
+    "autocall_barrier": 1.049259,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15"
+    ],
+    "exercise_date": "2028-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_117",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.914,
+      1.685,
+      1.122
+    ],
+    "strike": 1.0,
+    "down_in": 0.584,
+    "autocall_barrier": 1.001548,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_118",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.589,
+      1.756,
+      1.37
+    ],
+    "strike": 1.0,
+    "down_in": 0.529,
+    "autocall_barrier": 1.073052,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15"
+    ],
+    "exercise_date": "2028-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_119",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.227,
+      0.999,
+      1.644
+    ],
+    "strike": 1.0,
+    "down_in": 0.51,
+    "autocall_barrier": 1.08657,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15",
+      "2029-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15",
+      "2029-02-15"
+    ],
+    "exercise_date": "2029-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_120",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.358,
+      0.85,
+      1.663
+    ],
+    "strike": 1.0,
+    "down_in": 0.457,
+    "autocall_barrier": 1.048941,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15"
+    ],
+    "exercise_date": "2028-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_121",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.983,
+      1.689,
+      1.478
+    ],
+    "strike": 1.0,
+    "down_in": 0.458,
+    "autocall_barrier": 1.092965,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15"
+    ],
+    "exercise_date": "2028-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_122",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.948,
+      0.998,
+      0.651
+    ],
+    "strike": 1.0,
+    "down_in": 0.504,
+    "autocall_barrier": 0.919942,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15",
+      "2028-12-15"
+    ],
+    "exercise_date": "2029-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_123",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.584,
+      1.115,
+      1.482
+    ],
+    "strike": 1.0,
+    "down_in": 0.478,
+    "autocall_barrier": 0.993898,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_124",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.435,
+      1.096,
+      0.62
+    ],
+    "strike": 1.0,
+    "down_in": 0.531,
+    "autocall_barrier": 1.034871,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_125",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.44,
+      1.831,
+      1.232
+    ],
+    "strike": 1.0,
+    "down_in": 0.502,
+    "autocall_barrier": 1.023492,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15"
+    ],
+    "exercise_date": "2028-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_126",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.996,
+      1.62,
+      1.151
+    ],
+    "strike": 1.0,
+    "down_in": 0.455,
+    "autocall_barrier": 1.02675,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15"
+    ],
+    "exercise_date": "2028-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_127",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.75,
+      0.949,
+      0.543
+    ],
+    "strike": 1.0,
+    "down_in": 0.596,
+    "autocall_barrier": 0.911224,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_128",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.146,
+      0.866,
+      1.118
+    ],
+    "strike": 1.0,
+    "down_in": 0.738,
+    "autocall_barrier": 0.936011,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15"
+    ],
+    "exercise_date": "2028-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_129",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.414,
+      1.074,
+      1.525
+    ],
+    "strike": 1.0,
+    "down_in": 0.552,
+    "autocall_barrier": 1.016631,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_130",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.457,
+      1.189,
+      1.5
+    ],
+    "strike": 1.0,
+    "down_in": 0.645,
+    "autocall_barrier": 0.993051,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_131",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.737,
+      1.163,
+      1.018
+    ],
+    "strike": 1.0,
+    "down_in": 0.691,
+    "autocall_barrier": 1.027788,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15",
+      "2029-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15",
+      "2029-02-15"
+    ],
+    "exercise_date": "2029-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_132",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.185,
+      0.953,
+      1.999
+    ],
+    "strike": 1.0,
+    "down_in": 0.493,
+    "autocall_barrier": 0.921331,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15"
+    ],
+    "exercise_date": "2028-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_133",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.362,
+      1.989,
+      0.943
+    ],
+    "strike": 1.0,
+    "down_in": 0.502,
+    "autocall_barrier": 1.031646,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15"
+    ],
+    "exercise_date": "2028-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_134",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.349,
+      1.529,
+      1.617
+    ],
+    "strike": 1.0,
+    "down_in": 0.458,
+    "autocall_barrier": 1.021281,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_135",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.664,
+      0.845,
+      1.703
+    ],
+    "strike": 1.0,
+    "down_in": 0.48,
+    "autocall_barrier": 0.938026,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15"
+    ],
+    "exercise_date": "2028-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_136",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.442,
+      1.855,
+      1.47
+    ],
+    "strike": 1.0,
+    "down_in": 0.478,
+    "autocall_barrier": 0.988165,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_137",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.635,
+      0.943,
+      1.621
+    ],
+    "strike": 1.0,
+    "down_in": 0.479,
+    "autocall_barrier": 0.926432,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_138",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.253,
+      0.909,
+      0.747
+    ],
+    "strike": 1.0,
+    "down_in": 0.768,
+    "autocall_barrier": 1.088838,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15",
+      "2029-04-15",
+      "2029-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15",
+      "2029-01-15"
+    ],
+    "exercise_date": "2029-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_139",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.706,
+      1.202,
+      0.613
+    ],
+    "strike": 1.0,
+    "down_in": 0.553,
+    "autocall_barrier": 0.945123,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_140",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.049,
+      1.686,
+      0.521
+    ],
+    "strike": 1.0,
+    "down_in": 0.527,
+    "autocall_barrier": 0.990957,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15",
+      "2029-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15",
+      "2029-03-15"
+    ],
+    "exercise_date": "2029-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_141",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.734,
+      1.91,
+      0.663
+    ],
+    "strike": 1.0,
+    "down_in": 0.467,
+    "autocall_barrier": 0.905005,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15"
+    ],
+    "exercise_date": "2028-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_142",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.471,
+      1.453,
+      1.196
+    ],
+    "strike": 1.0,
+    "down_in": 0.611,
+    "autocall_barrier": 1.029848,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_143",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.568,
+      0.556,
+      1.994
+    ],
+    "strike": 1.0,
+    "down_in": 0.456,
+    "autocall_barrier": 0.94696,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_144",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.18,
+      1.506,
+      1.615
+    ],
+    "strike": 1.0,
+    "down_in": 0.61,
+    "autocall_barrier": 0.983825,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15"
+    ],
+    "exercise_date": "2028-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_145",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.482,
+      1.751,
+      1.423
+    ],
+    "strike": 1.0,
+    "down_in": 0.564,
+    "autocall_barrier": 0.955948,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15"
+    ],
+    "exercise_date": "2028-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_146",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.165,
+      1.926,
+      1.783
+    ],
+    "strike": 1.0,
+    "down_in": 0.457,
+    "autocall_barrier": 1.037136,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15"
+    ],
+    "exercise_date": "2027-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_147",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.097,
+      0.785,
+      0.683
+    ],
+    "strike": 1.0,
+    "down_in": 0.832,
+    "autocall_barrier": 0.990943,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_148",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.576,
+      1.0,
+      1.983
+    ],
+    "strike": 1.0,
+    "down_in": 0.493,
+    "autocall_barrier": 0.941041,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_149",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.72,
+      0.849,
+      1.662
+    ],
+    "strike": 1.0,
+    "down_in": 0.554,
+    "autocall_barrier": 1.019196,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15"
+    ],
+    "exercise_date": "2027-11-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_150",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.981,
+      1.31,
+      1.698
+    ],
+    "strike": 1.0,
+    "down_in": 0.456,
+    "autocall_barrier": 1.07329,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15"
+    ],
+    "exercise_date": "2027-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_151",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.037,
+      1.683,
+      1.383
+    ],
+    "strike": 1.0,
+    "down_in": 0.452,
+    "autocall_barrier": 0.953074,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_152",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.289,
+      1.618,
+      1.214
+    ],
+    "strike": 1.0,
+    "down_in": 0.581,
+    "autocall_barrier": 1.002648,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15"
+    ],
+    "exercise_date": "2028-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_153",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.256,
+      1.918,
+      0.565
+    ],
+    "strike": 1.0,
+    "down_in": 0.506,
+    "autocall_barrier": 1.073396,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_154",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.465,
+      0.547,
+      1.998
+    ],
+    "strike": 1.0,
+    "down_in": 0.493,
+    "autocall_barrier": 0.985255,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_155",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.569,
+      1.165,
+      1.849
+    ],
+    "strike": 1.0,
+    "down_in": 0.479,
+    "autocall_barrier": 0.929667,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15",
+      "2028-11-15"
+    ],
+    "exercise_date": "2029-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_156",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.436,
+      1.378,
+      1.568
+    ],
+    "strike": 1.0,
+    "down_in": 0.522,
+    "autocall_barrier": 1.019478,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15"
+    ],
+    "exercise_date": "2028-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_157",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.258,
+      1.145,
+      1.69
+    ],
+    "strike": 1.0,
+    "down_in": 0.466,
+    "autocall_barrier": 1.030943,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_158",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.177,
+      0.843,
+      1.008
+    ],
+    "strike": 1.0,
+    "down_in": 0.631,
+    "autocall_barrier": 0.983198,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15"
+    ],
+    "exercise_date": "2029-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_159",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.14,
+      1.498,
+      1.061
+    ],
+    "strike": 1.0,
+    "down_in": 0.483,
+    "autocall_barrier": 1.084597,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15"
+    ],
+    "exercise_date": "2028-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_160",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.748,
+      0.64,
+      0.645
+    ],
+    "strike": 1.0,
+    "down_in": 0.54,
+    "autocall_barrier": 1.062354,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_161",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.343,
+      1.505,
+      1.116
+    ],
+    "strike": 1.0,
+    "down_in": 0.637,
+    "autocall_barrier": 1.088226,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15",
+      "2029-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15",
+      "2029-03-15"
+    ],
+    "exercise_date": "2029-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_162",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.953,
+      1.401,
+      1.027
+    ],
+    "strike": 1.0,
+    "down_in": 0.486,
+    "autocall_barrier": 0.942548,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_163",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.771,
+      1.025,
+      1.334
+    ],
+    "strike": 1.0,
+    "down_in": 0.463,
+    "autocall_barrier": 0.955714,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_164",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.768,
+      1.962,
+      1.728
+    ],
+    "strike": 1.0,
+    "down_in": 0.487,
+    "autocall_barrier": 1.02854,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15"
+    ],
+    "exercise_date": "2029-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_165",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.543,
+      0.91,
+      1.644
+    ],
+    "strike": 1.0,
+    "down_in": 0.596,
+    "autocall_barrier": 0.970205,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15"
+    ],
+    "exercise_date": "2028-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_166",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.349,
+      1.101,
+      0.713
+    ],
+    "strike": 1.0,
+    "down_in": 0.634,
+    "autocall_barrier": 0.906131,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15"
+    ],
+    "exercise_date": "2027-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_167",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.13,
+      1.011,
+      1.055
+    ],
+    "strike": 1.0,
+    "down_in": 0.764,
+    "autocall_barrier": 1.055367,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15"
+    ],
+    "exercise_date": "2028-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_168",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.733,
+      1.632,
+      0.575
+    ],
+    "strike": 1.0,
+    "down_in": 0.463,
+    "autocall_barrier": 0.988623,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_169",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.411,
+      1.121,
+      0.823
+    ],
+    "strike": 1.0,
+    "down_in": 0.583,
+    "autocall_barrier": 0.969035,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15",
+      "2029-05-15"
+    ],
+    "autocall_dates": [
+      "2026-11-15",
+      "2027-05-15",
+      "2027-11-15",
+      "2028-05-15",
+      "2028-11-15"
+    ],
+    "exercise_date": "2029-05-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_170",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.517,
+      1.39,
+      1.29
+    ],
+    "strike": 1.0,
+    "down_in": 0.515,
+    "autocall_barrier": 0.944104,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15"
+    ],
+    "exercise_date": "2028-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_171",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.807,
+      1.918,
+      1.651
+    ],
+    "strike": 1.0,
+    "down_in": 0.505,
+    "autocall_barrier": 0.957889,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_172",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.246,
+      1.146,
+      0.694
+    ],
+    "strike": 1.0,
+    "down_in": 0.638,
+    "autocall_barrier": 0.946022,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_173",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.096,
+      1.613,
+      1.154
+    ],
+    "strike": 1.0,
+    "down_in": 0.528,
+    "autocall_barrier": 0.915573,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_174",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.36,
+      1.564,
+      1.127
+    ],
+    "strike": 1.0,
+    "down_in": 0.472,
+    "autocall_barrier": 0.904171,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15"
+    ],
+    "exercise_date": "2029-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_175",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.702,
+      1.427,
+      1.748
+    ],
+    "strike": 1.0,
+    "down_in": 0.562,
+    "autocall_barrier": 0.917626,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15"
+    ],
+    "exercise_date": "2027-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_176",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.154,
+      1.101,
+      0.618
+    ],
+    "strike": 1.0,
+    "down_in": 0.813,
+    "autocall_barrier": 1.049161,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15"
+    ],
+    "exercise_date": "2028-01-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_177",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.669,
+      0.615,
+      1.45
+    ],
+    "strike": 1.0,
+    "down_in": 0.529,
+    "autocall_barrier": 0.938781,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_178",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.591,
+      1.728,
+      1.723
+    ],
+    "strike": 1.0,
+    "down_in": 0.48,
+    "autocall_barrier": 0.929289,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15"
+    ],
+    "exercise_date": "2028-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_179",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.404,
+      1.64,
+      1.483
+    ],
+    "strike": 1.0,
+    "down_in": 0.478,
+    "autocall_barrier": 1.05457,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15"
+    ],
+    "exercise_date": "2027-09-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_180",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.632,
+      1.64,
+      1.173
+    ],
+    "strike": 1.0,
+    "down_in": 0.598,
+    "autocall_barrier": 1.012898,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15"
+    ],
+    "autocall_dates": [
+      "2027-03-15",
+      "2027-09-15",
+      "2028-03-15",
+      "2028-09-15"
+    ],
+    "exercise_date": "2029-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_181",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.726,
+      0.602,
+      1.163
+    ],
+    "strike": 1.0,
+    "down_in": 0.574,
+    "autocall_barrier": 0.954935,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15"
+    ],
+    "exercise_date": "2028-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_182",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.261,
+      0.966,
+      1.178
+    ],
+    "strike": 1.0,
+    "down_in": 0.47,
+    "autocall_barrier": 1.066339,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15"
+    ],
+    "exercise_date": "2028-08-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_183",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.423,
+      1.261,
+      1.194
+    ],
+    "strike": 1.0,
+    "down_in": 0.59,
+    "autocall_barrier": 1.058364,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-03-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_184",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.864,
+      1.357,
+      0.782
+    ],
+    "strike": 1.0,
+    "down_in": 0.502,
+    "autocall_barrier": 1.000273,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_185",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.655,
+      1.849,
+      1.015
+    ],
+    "strike": 1.0,
+    "down_in": 0.515,
+    "autocall_barrier": 1.00091,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_186",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.872,
+      1.157,
+      1.159
+    ],
+    "strike": 1.0,
+    "down_in": 0.666,
+    "autocall_barrier": 0.931749,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_187",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.081,
+      1.662,
+      1.518
+    ],
+    "strike": 1.0,
+    "down_in": 0.458,
+    "autocall_barrier": 1.026177,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15"
+    ],
+    "exercise_date": "2028-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_188",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.995,
+      1.337,
+      1.08
+    ],
+    "strike": 1.0,
+    "down_in": 0.525,
+    "autocall_barrier": 1.070313,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2027-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_189",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.622,
+      1.495,
+      1.875
+    ],
+    "strike": 1.0,
+    "down_in": 0.476,
+    "autocall_barrier": 1.031211,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_190",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.393,
+      1.907,
+      0.964
+    ],
+    "strike": 1.0,
+    "down_in": 0.478,
+    "autocall_barrier": 1.058332,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_191",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.64,
+      1.506,
+      1.263
+    ],
+    "strike": 1.0,
+    "down_in": 0.454,
+    "autocall_barrier": 0.961773,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15",
+      "2029-01-15",
+      "2029-04-15",
+      "2029-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15",
+      "2028-07-15",
+      "2029-01-15"
+    ],
+    "exercise_date": "2029-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_192",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.922,
+      1.229,
+      0.84
+    ],
+    "strike": 1.0,
+    "down_in": 0.46,
+    "autocall_barrier": 0.915433,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15"
+    ],
+    "autocall_dates": [
+      "2027-01-15",
+      "2027-07-15",
+      "2028-01-15"
+    ],
+    "exercise_date": "2028-07-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_193",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.656,
+      1.753,
+      1.826
+    ],
+    "strike": 1.0,
+    "down_in": 0.454,
+    "autocall_barrier": 0.967353,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15",
+      "2028-03-15",
+      "2028-06-15",
+      "2028-09-15",
+      "2028-12-15",
+      "2029-03-15",
+      "2029-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15",
+      "2027-12-15",
+      "2028-06-15",
+      "2028-12-15"
+    ],
+    "exercise_date": "2029-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_194",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.731,
+      0.771,
+      1.539
+    ],
+    "strike": 1.0,
+    "down_in": 0.575,
+    "autocall_barrier": 1.080531,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15",
+      "2028-07-15",
+      "2028-10-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15",
+      "2028-04-15"
+    ],
+    "exercise_date": "2028-10-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_195",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.116,
+      1.515,
+      0.856
+    ],
+    "strike": 1.0,
+    "down_in": 0.543,
+    "autocall_barrier": 0.956986,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15"
+    ],
+    "autocall_dates": [],
+    "exercise_date": "2026-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_196",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.301,
+      0.964,
+      1.713
+    ],
+    "strike": 1.0,
+    "down_in": 0.513,
+    "autocall_barrier": 1.067023,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": false
+  },
+  {
+    "name": "Autocall_197",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.193,
+      0.923,
+      1.073
+    ],
+    "strike": 1.0,
+    "down_in": 0.655,
+    "autocall_barrier": 1.093254,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-11-15",
+      "2027-02-15",
+      "2027-05-15",
+      "2027-08-15",
+      "2027-11-15",
+      "2028-02-15",
+      "2028-05-15",
+      "2028-08-15",
+      "2028-11-15",
+      "2029-02-15"
+    ],
+    "autocall_dates": [
+      "2027-02-15",
+      "2027-08-15",
+      "2028-02-15",
+      "2028-08-15"
+    ],
+    "exercise_date": "2029-02-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_198",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.81,
+      0.578,
+      1.221
+    ],
+    "strike": 1.0,
+    "down_in": 0.488,
+    "autocall_barrier": 1.086859,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15"
+    ],
+    "exercise_date": "2027-06-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_199",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      0.626,
+      0.74,
+      1.174
+    ],
+    "strike": 1.0,
+    "down_in": 0.656,
+    "autocall_barrier": 1.066209,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-10-15",
+      "2027-01-15",
+      "2027-04-15",
+      "2027-07-15",
+      "2027-10-15",
+      "2028-01-15",
+      "2028-04-15"
+    ],
+    "autocall_dates": [
+      "2026-10-15",
+      "2027-04-15",
+      "2027-10-15"
+    ],
+    "exercise_date": "2028-04-15",
+    "monitor_period": 0.009615384615384616,
+    "smooth": 0.01,
+    "is_euro_barrier": true
+  },
+  {
+    "name": "Autocall_200",
+    "type": "Autocall",
+    "asset_names": [
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "initial_fixings": [
+      1.725,
+      1.827,
+      1.896
+    ],
+    "strike": 1.0,
+    "down_in": 0.482,
+    "autocall_barrier": 0.979291,
+    "coupon_amount": 0.02,
+    "coupon_dates": [
+      "2026-12-15",
+      "2027-03-15",
+      "2027-06-15",
+      "2027-09-15",
+      "2027-12-15"
+    ],
+    "autocall_dates": [
+      "2026-12-15",
+      "2027-06-15"
+    ],
+    "exercise_date": "2027-12-15",
     "monitor_period": 0.009615384615384616,
     "smooth": 0.01,
     "is_euro_barrier": false

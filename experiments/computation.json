@@ -16,12 +16,12 @@
     "greeks_parameters": {
       "aad": true,
       "vega_grid":  {
-        "strikes":  [50, 60, 70, 80, 90, 100, 110, 120, 130, 140, 150, 160, 170, 180, 190],
-        "maturities": [0.333, 0.666, 1.0,  1.333, 1.666]
+        "strike_scale": "absolute",
+        "strikes":  [0.50, 0.60, 0.70, 0.80, 0.90, 0.10, 1.10, 1.20, 1.30, 1.40, 1.50, 1.60, 1.70, 1.80, 1.90],
+        "maturities": [0.50, 1.00, 1.50, 2.00, 2.50]
       },
       "secondOrder": true
     },
-    "parallel": true,
     "variable_params": {
       "paths_log2": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19],
       "smooth": [0.125, 0.0625, 0.03125, 0.015625, 0.0078125, 0.00390625, 0.001953125, 0.0009765625, 0.00048828125],
@@ -37,6 +37,7 @@
         {"rng":  "SOBOL_OWEN", "PathConstr":  "PCA"}
       ]
     },
+    "parallel": true,
     "num_RQMC": 16,
     "paths_log2":  16,
     "smooth": 0.01,

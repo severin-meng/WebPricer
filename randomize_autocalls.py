@@ -3,6 +3,7 @@ import random
 from calendar import monthrange
 from datetime import date
 from typing import Sequence
+import csv
 
 
 def shift_months(input_date: date, months: int) -> date:
@@ -24,7 +25,7 @@ def generate_products(
     exercise_months_range: Sequence[int] = (6, 36),
     valuation_date: str = "2026-09-15",
     seed: int | None = None,
-) -> str:
+) -> tuple[str, list[str], list[list[float]]]:
     """
     Generate randomized product parameters and return them as a JSON list.
 
@@ -43,7 +44,8 @@ def generate_products(
     exercise_months_min, exercise_months_max = exercise_months_range
 
     products = []
-
+    param_keys = ["initial_fixing_1", "initial_fixing_2", "initial_fixing_3", "down_in", "autocall_barrier", "maturity_months", "is_euro_barrier"]
+    param_data = []
     for index in range(1, number_of_products + 1):
         maturity_months = rng.randint(
             exercise_months_min,
@@ -94,19 +96,22 @@ def generate_products(
             "smooth": 0.01,
             "is_euro_barrier": rng.choice([True, False]),
         }
-
         products.append(product)
 
-    return json.dumps(products, indent=2)
+        params = product["initial_fixings"] + [product["down_in"], product["autocall_barrier"], maturity_months, product["is_euro_barrier"]]
+        param_data.append(params)
+
+
+    return json.dumps(products, indent=2), param_keys, param_data
 
 
 if __name__ == "__main__":
-    products_json = generate_products(
-        number_of_products=5,
+    products_json, param_keys, param_data = generate_products(
+        number_of_products=50,
         initial_fixings_range=(0.5, 2.0),
         down_in_range=(0.45, 0.9),
         autocall_barrier_range=(0.9, 1.1),
-        exercise_months_range=(6, 36),
+        exercise_months_range=(1, 36),
         seed=42,  # Remove or change for different results.
     )
     # random: initial fixings, downIn Barrier, autocall Barrier, exercise runtime and subsequently the remaining call dates, euro vs american
@@ -116,3 +121,8 @@ if __name__ == "__main__":
     # Optional: write the JSON to a file.
     with open("experiments/autocalls/products.json", "w", encoding="utf-8") as json_file:
         json_file.write(products_json)
+
+    with open("experiments/autocalls/products_params.csv", "w", encoding="utf-8") as csv_file:
+        writer = csv.writer(csv_file, delimiter=",")
+        writer.writerow(param_keys)
+        writer.writerows(param_data)

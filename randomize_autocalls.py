@@ -127,7 +127,7 @@ def sample_autocall_portfolio(
     n_products: int = 200,
     seed: int = 1234,
     max_relative_name_spread: float = 0.35,
-    min_di_relative_gap: float = 0.0025,
+    min_di_relative_gap: float = 0.035,
 ) -> pd.DataFrame:
     """
     Generate a stratified portfolio of three-name worst-of autocallables.
@@ -289,7 +289,7 @@ def sample_autocall_portfolio(
     # Strictly separate current worst performance and down-in barrier.
     maximum_down_in = np.minimum(
         0.90,
-        worst_performance * (1.0 - min_di_relative_gap),
+        worst_performance - min_di_relative_gap,
     )
 
     if np.any(maximum_down_in <= 0.45):
@@ -341,8 +341,14 @@ def sample_autocall_portfolio(
     # Explanatory variables for later analysis
     # ---------------------------------------------------------------
 
-    portfolio["di_relative_gap"] = (
+    # perf = 1 / init_fix
+    # barr dist = (1 - di_barr*init_fix) / 1 = init_fix * (1 / init_fix - di_barr) / 1 = (perf - di_barr) / (perf)
+    portfolio["di_distance"] = (
         worst_performance - down_in_barrier
+    ) / worst_performance
+
+    portfolio["autocall_distance"] = (
+        portfolio["autocall_barrier"].to_numpy() - worst_performance
     ) / worst_performance
 
     portfolio["di_log_distance"] = np.log(
@@ -387,6 +393,8 @@ def sample_autocall_portfolio(
         36.0,
     ).all()
 
+    portfolio.insert(0, "name", [f"Autocall_{idx}" for idx in portfolio.index])
+
     return portfolio
 
 
@@ -419,20 +427,20 @@ def portfolio_to_json(portfolio, valuation_date = "2026-09-15"):
             for value in reversed(autocall_dates_descending)
         ]
         prod = {
-            "name": f"Autocall_{row[0]+1}",
+            "name": data["name"],
             "type": "Autocall",
             "asset_names": ["S1", "S2", "S3"],
-            "initial_fixings": [data.initial_fixing_1, data.initial_fixing_2, data.initial_fixing_3],
+            "initial_fixings": [data["initial_fixing_1"], data["initial_fixing_2"], data["initial_fixing_3"]],
             "strike": 1.0,
-            "down_in": data.down_in_barrier,
-            "autocall_barrier": data.autocall_barrier,
+            "down_in": data["down_in_barrier"],
+            "autocall_barrier": data["autocall_barrier"],
             "coupon_amount": 0.04,
             "coupon_dates": coupon_dates,
             "autocall_dates": autocall_dates,
             "exercise_date": exercise_date.isoformat(),
             "monitor_period": 0.009615384615384616,
             "smooth": 0.01,
-            "is_euro_barrier": not data.continuous_down_in
+            "is_euro_barrier": not data["continuous_down_in"]
         }
 
         products.append(prod)
@@ -466,8 +474,9 @@ if __name__ == "__main__":
     portfolio = sample_autocall_portfolio(
         n_products=200,
         seed=20260803,
+        min_di_relative_gap=0.035,  # worst is at least 3.5% above the DI barrier so I can bump with 3% spot shift without crossing
     )
-    portfolio.to_csv("experiments/autocalls/products_params_v2.csv", index=False)
+    portfolio.to_csv("experiments/autocalls/products_params_v4.csv", index=False)
     ptf_json = portfolio_to_json(portfolio)
-    with open("experiments/autocalls/products_v2.json", "w", encoding="utf-8") as json_file:
+    with open("experiments/autocalls/products_v4.json", "w", encoding="utf-8") as json_file:
         json_file.write(ptf_json)

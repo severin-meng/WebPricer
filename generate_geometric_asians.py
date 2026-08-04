@@ -34,7 +34,7 @@ def generate_geometric_asians(
         dates = [
             start_date
             + timedelta(
-                days=round(i * 365 / number_of_intervals)
+                days=round(i * 256 / number_of_intervals)
             )
             for i in range(1, number_of_intervals + 1)
         ]

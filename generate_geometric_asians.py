@@ -12,6 +12,7 @@ import csv
 def generate_geometric_asians(
     start_date_iso: str = "2026-09-15",
     fixing_period_days: list[int] = [7],
+    total_days=256,
     strike: float = 1.0
 ) -> str:
     """
@@ -24,17 +25,17 @@ def generate_geometric_asians(
         raise ValueError("fixing_period_days must be positive")
 
     start_date = date.fromisoformat(start_date_iso)
-    maturity_date = (start_date + timedelta(days=365)).isoformat()
+    maturity_date = (start_date + timedelta(days=total_days)).isoformat()
     products = []
 
     for fixing_days in fixing_period_days:
         # Choose the closest integer number of fixing intervals.
-        number_of_intervals = max(1, round(365 / fixing_days))
+        number_of_intervals = max(1, round(total_days / fixing_days))
 
         dates = [
             start_date
             + timedelta(
-                days=round(i * 256 / number_of_intervals)
+                days=round(i * total_days / number_of_intervals)
             )
             for i in range(1, number_of_intervals + 1)
         ]
@@ -57,7 +58,7 @@ def generate_geometric_asians(
 
 
 if __name__ == "__main__":
-    days = [1, 3, 7, 14, 31, 61, 91, 182]
+    days = [1]
     geomAsians = generate_geometric_asians(fixing_period_days=days)
     with open(f"experiments/asians/products.json", "w", encoding="utf-8") as json_file:
         json_file.write(geomAsians)

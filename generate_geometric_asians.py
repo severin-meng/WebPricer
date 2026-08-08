@@ -58,7 +58,7 @@ def generate_geometric_asians(
 
 
 if __name__ == "__main__":
-    days = [1]
+    days = [1, 2, 5, 10, 20]
     geomAsians = generate_geometric_asians(fixing_period_days=days)
     with open(f"experiments/asians/products.json", "w", encoding="utf-8") as json_file:
         json_file.write(geomAsians)

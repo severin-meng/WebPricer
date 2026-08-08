@@ -12,7 +12,8 @@ import csv
 def generate_cliquet(
     start_date_iso: str = "2026-09-15",
     fixing_period_days: list[int] = [7],
-) -> str:
+    cap = 0.08,
+    floor = 0.16) -> str:
     """
     Generate approximately equidistant fixing dates from the input date
     through a maturity 365 days later.
@@ -46,6 +47,8 @@ def generate_cliquet(
             "settle_date": maturity_date,
             "fixing_dates": fixing_dates,
             "past_fixings": [],
+            "cap": cap,
+            "floor": floor,
             "underlyings": "S1"
         }
         products.append(product)

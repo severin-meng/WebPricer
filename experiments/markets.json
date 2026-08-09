@@ -32,10 +32,10 @@
         "type": "SSVI_PowerLaw", "vol":  0.2, "rho":  -0.7, "eta": 0.9, "gamma": 0.4}
       },
       {"name":  "S2", "spot":  1.0, "div_yield":  0.00, "ivs": {
-        "type": "SSVI_PowerLaw", "vol":  0.25, "rho":  -0.5, "eta":  0.8, "gamma":  0.5}
+        "type": "SSVI_PowerLaw", "vol":  0.2, "rho":  -0.7, "eta": 0.9, "gamma": 0.4}
       },
       {"name":  "S3", "spot":  1.0, "div_yield":  0.00, "ivs": {
-        "type": "SSVI_PowerLaw", "vol":  0.3, "rho":  -0.4, "eta":  0.4, "gamma":  0.6}
+        "type": "SSVI_PowerLaw", "vol":  0.2, "rho":  -0.7, "eta": 0.9, "gamma": 0.4}
       }
     ],
     "rate": 0.03,

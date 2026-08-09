@@ -3,6 +3,7 @@ import random
 import numpy as np
 import itertools
 import pandas as pd
+from scipy.stats.qmc import Sobol
 from calendar import monthrange
 from datetime import date
 from typing import Sequence
@@ -38,7 +39,7 @@ def generate_products(
     if number_of_products < 1:
         raise ValueError("number_of_products must be at least 1.")
 
-    rng = random.Random(seed)
+    rng = Sobol(7, scramble=True, seed=seed)
     valuation = date.fromisoformat(valuation_date)
 
     initial_fixings_min, initial_fixings_max = initial_fixings_range
@@ -50,12 +51,10 @@ def generate_products(
     param_keys = ["name", "initial_fixing_1", "initial_fixing_2", "initial_fixing_3", "down_in", "autocall_barrier", "maturity_months", "is_euro_barrier", "dist_to_barrier", "dist_to_autoc"]
     param_data = []
 
-
+    rng_vals = rng.random(number_of_products)
     for index in range(1, number_of_products + 1):
-        maturity_months = rng.randint(
-            exercise_months_min,
-            exercise_months_max,
-        )
+        rng_val = rng_vals[index-1]
+        maturity_months = int(exercise_months_min + (exercise_months_max+0.5 - exercise_months_min) * rng_val[0])
         exercise_date = shift_months(valuation, maturity_months)
 
         # Generate quarterly dates backwards from the exercise date.
@@ -80,8 +79,8 @@ def generate_products(
         ]
 
         init_fixings = [
-                round(rng.uniform(initial_fixings_min, initial_fixings_max), 3)
-                for _ in range(3)
+                round(2**(np.log2(initial_fixings_min) + np.log2(initial_fixings_max/initial_fixings_min) * rng_val[j+1]), 3)
+                for j in range(3)
             ]
 
         product = {
@@ -90,18 +89,15 @@ def generate_products(
             "asset_names": ["S1", "S2", "S3"],
             "initial_fixings": init_fixings,
             "strike": 1.0,
-            "down_in": round(rng.uniform(down_in_min, min(1 / max(init_fixings), down_in_max)), 3),  # down in barrier should be below current min - i.e. no present breach
-            "autocall_barrier": round(
-                rng.uniform(autocall_min, autocall_max),
-                6,
-            ),
+            "down_in": round(down_in_min + rng_val[4] * (min(1 / max(init_fixings), down_in_max) - down_in_min), 3),  # down in barrier should be below current min - i.e. no present breach
+            "autocall_barrier": round(autocall_min + (autocall_max - autocall_min) * rng_val[5], 3),
             "coupon_amount": 0.02,
             "coupon_dates": coupon_dates,
             "autocall_dates": autocall_dates,
             "exercise_date": exercise_date.isoformat(),
             "monitor_period": 0.009615384615384616,
             "smooth": 0.01,
-            "is_euro_barrier": rng.choice([True, False]),
+            "is_euro_barrier": bool(rng_val[6] > 0.5),
         }
         products.append(product)
 
@@ -110,7 +106,6 @@ def generate_products(
         # dist = (worst - abs_barrier) / worst = 1 - product["down_in"] * max(init_fixings)
         params = [product["name"]] + product["initial_fixings"] + [product["down_in"], product["autocall_barrier"], maturity_months, product["is_euro_barrier"], dist_to_barrier, dist_to_autocall]
         param_data.append(params)
-
 
     return json.dumps(products, indent=2), param_keys, param_data
 
@@ -448,7 +443,6 @@ def portfolio_to_json(portfolio, valuation_date = "2026-09-15"):
 
 
 if __name__ == "__main__":
-    """
     products_json, param_keys, param_data = generate_products(
         number_of_products=200,
         initial_fixings_range=(0.5, 2.0),
@@ -463,13 +457,14 @@ if __name__ == "__main__":
 
     # Optional: write the JSON to a file.
 
-    with open("experiments/autocalls/products.json", "w", encoding="utf-8") as json_file:
+    with open("experiments/autocalls/products_v5.json", "w", encoding="utf-8") as json_file:
         json_file.write(products_json)
 
-    with open("experiments/autocalls/products_params.csv", "w", encoding="utf-8") as csv_file:
+    with open("experiments/autocalls/products_params_v5.csv", "w", encoding="utf-8") as csv_file:
         writer = csv.writer(csv_file, delimiter=",")
         writer.writerow(param_keys)
-        writer.writerows(param_data)"""
+        writer.writerows(param_data)
+    """
 
     portfolio = sample_autocall_portfolio(
         n_products=200,
@@ -480,3 +475,4 @@ if __name__ == "__main__":
     ptf_json = portfolio_to_json(portfolio)
     with open("experiments/autocalls/products_v4.json", "w", encoding="utf-8") as json_file:
         json_file.write(ptf_json)
+    """

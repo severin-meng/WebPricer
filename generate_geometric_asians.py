@@ -9,10 +9,11 @@ from typing import Sequence
 import csv
 
 
-def generate_geometric_asians(
+def generate_asians(
     start_date_iso: str = "2026-09-15",
     fixing_period_days: list[int] = [7],
-    total_days=256,
+    is_arithmetic: bool = False,
+    total_days: int = 256,
     strike: float = 1.0
 ) -> str:
     """
@@ -49,7 +50,7 @@ def generate_geometric_asians(
             "settle_date": maturity_date,
             "fixing_dates": fixing_dates,
             "past_fixings": [],
-            "is_arithmetic": False,
+            "is_arithmetic": is_arithmetic,
             "underlyings": "S1"
         }
         products.append(product)
@@ -59,6 +60,6 @@ def generate_geometric_asians(
 
 if __name__ == "__main__":
     days = [1, 2, 5, 10, 20]
-    geomAsians = generate_geometric_asians(fixing_period_days=days)
+    geomAsians = generate_asians(fixing_period_days=days, is_arithmetic=False)
     with open(f"experiments/asians/products.json", "w", encoding="utf-8") as json_file:
         json_file.write(geomAsians)

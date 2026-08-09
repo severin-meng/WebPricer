@@ -22,6 +22,11 @@
     "spot_measure": false
   },
   {
+    "name": "HLV",
+    "type": "HyperbolicLV",
+    "max_timestep": 0.009615384615384616
+  },
+  {
     "name": "BSM",
     "type": "BlackScholesMulti",
     "spot_measure": false

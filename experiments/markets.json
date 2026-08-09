@@ -57,5 +57,15 @@
     ],
     "rate": 0.03,
     "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
+  },
+  {
+    "name": "HyperbolicMkt",
+    "assets": [
+      {"name":  "S1", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Hyperbolic", "vol":  0.3, "beta":  0.5}},
+      {"name":  "S2", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Hyperbolic", "vol":  0.3, "beta":  0.5}},
+      {"name":  "S3", "spot":  1.0, "div_yield":  0.00, "ivs": {"type": "Hyperbolic", "vol":  0.3, "beta":  0.5}}
+    ],
+    "rate": 0.03,
+    "correlation": {"S2_S1":  0.8, "S3_S1":  0.2, "S3_S2":  0.2}
   }
 ]

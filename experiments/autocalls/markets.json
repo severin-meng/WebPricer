@@ -1,0 +1,4702 @@
+[
+  {
+    "name": "Market_0",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_1",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6080808080808081,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_2",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6161616161616161,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_3",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6242424242424243,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_4",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6323232323232323,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_5",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6404040404040404,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_6",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6484848484848484,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_7",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6565656565656566,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_8",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6646464646464646,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_9",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6727272727272727,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_10",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6808080808080808,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_11",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6888888888888889,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_12",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.6969696969696969,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_13",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.705050505050505,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_14",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7131313131313131,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_15",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7212121212121212,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_16",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7292929292929293,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_17",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7373737373737373,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_18",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7454545454545454,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_19",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7535353535353535,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_20",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7616161616161616,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_21",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7696969696969697,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_22",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7777777777777778,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_23",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.7858585858585858,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_24",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.793939393939394,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_25",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.802020202020202,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_26",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8101010101010101,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_27",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8181818181818181,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_28",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8262626262626263,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_29",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8343434343434344,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_30",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8424242424242424,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_31",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8505050505050504,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_32",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8585858585858586,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_33",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8666666666666667,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_34",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8747474747474747,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_35",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8828282828282827,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_36",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.8909090909090909,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_37",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.898989898989899,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_38",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.907070707070707,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_39",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.915151515151515,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_40",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9232323232323232,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_41",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9313131313131313,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_42",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9393939393939394,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_43",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9474747474747475,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_44",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9555555555555555,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_45",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9636363636363636,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_46",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9717171717171718,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_47",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9797979797979798,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_48",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9878787878787878,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_49",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 0.9959595959595959,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_50",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.004040404040404,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_51",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0121212121212122,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_52",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.02020202020202,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_53",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0282828282828282,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_54",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0363636363636364,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_55",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0444444444444443,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_56",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0525252525252524,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_57",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0606060606060606,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_58",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0686868686868687,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_59",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0767676767676768,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_60",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.084848484848485,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_61",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.0929292929292929,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_62",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.101010101010101,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_63",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.109090909090909,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_64",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.117171717171717,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_65",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1252525252525252,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_66",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1333333333333333,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_67",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1414141414141414,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_68",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1494949494949496,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_69",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1575757575757577,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_70",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1656565656565656,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_71",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1737373737373737,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_72",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1818181818181817,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_73",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.1898989898989898,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_74",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.197979797979798,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_75",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.206060606060606,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_76",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2141414141414142,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_77",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2222222222222223,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_78",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2303030303030302,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_79",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2383838383838384,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_80",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2464646464646463,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_81",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2545454545454544,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_82",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2626262626262625,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_83",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2707070707070707,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_84",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.2787878787878788,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_85",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.286868686868687,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_86",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.294949494949495,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_87",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.303030303030303,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_88",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3111111111111111,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_89",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.319191919191919,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_90",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3272727272727272,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_91",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3353535353535353,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_92",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3434343434343434,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_93",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3515151515151516,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_94",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3595959595959597,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_95",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3676767676767676,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_96",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3757575757575757,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_97",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3838383838383839,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_98",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.3919191919191918,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  },
+  {
+    "name": "Market_99",
+    "assets": [
+      {
+        "name": "S1",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S2",
+        "spot": 1.0,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      },
+      {
+        "name": "S3",
+        "spot": 1.4,
+        "div_yield": 0.0,
+        "ivs": {
+          "type": "SSVI_PowerLaw",
+          "vol": 0.2,
+          "rho": -0.7,
+          "eta": 0.9,
+          "gamma": 0.4
+        }
+      }
+    ],
+    "rate": 0.03,
+    "correlation": {
+      "S2_S1": 0.8,
+      "S3_S1": 0.2,
+      "S3_S2": 0.2
+    }
+  }
+]

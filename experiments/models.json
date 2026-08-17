@@ -27,6 +27,20 @@
     "max_timestep": 0.009615384615384616
   },
   {
+    "name": "SLV",
+    "type": "SLV",
+    "max_timestep": 0.009615384615384616,
+    "grid": {
+      "spot_min": 0.5,
+      "spot_max": 2.0,
+      "max_delta_spot": 0.1,
+      "spot_steps": 150,
+      "t_max": 3.0,
+      "max_delta_time": 0.05,
+      "time_steps": 60
+    }
+  },
+  {
     "name": "BSM",
     "type": "BlackScholesMulti",
     "spot_measure": false

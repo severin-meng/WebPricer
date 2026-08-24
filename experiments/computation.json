@@ -45,6 +45,8 @@
     "steps": 104,
     "rngConfig": {"rng":  "SOBOL_BIT", "PathConstr":  "BB"},
     "runQMC": false,
-    "qmcScaling": false
+    "qmcScaling": false,
+    "adaptive_path_count": false,
+    "gamma_target": 0.5
   }
 }
